@@ -1,0 +1,139 @@
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+th, td {
+  width: 33%;
+  padding-right: 20px;
+}
+
+td {
+  padding-bottom: 40px;
+  vertical-align: top;
+}
+
+.encrypted-message .slide-content {
+  overflow: scroll;
+}
+
+/* Repeat a 1fr column 3 times */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.item-1 {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.item-2 {
+    grid-column: 3;
+    grid-row: 2;
+}
+
+.item-3 {
+    grid-column: 2;
+    grid-row: 3;
+}
+
+.item-4 {
+    grid-column: 1;
+    grid-row: 4;
+}
+
+.item-5 {
+    grid-column: 2;
+    grid-row: 5;
+}
+
+.item-6 {
+    grid-column: 3;
+    grid-row: 4;
+}
+
+.item-7 {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.item-8 {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.web-of-trust {
+  background: url('images/web.jpg');
+  background-size: cover;
+}
+
+.web-of-trust h1 {
+  color: #eee;
+  text-shadow: 0 0 40px black;
+}
+
+.mit-pgp iframe {
+  overflow: scroll;
+}
+
+.cold-war {
+  background: url('images/hiroshima-mushroom-cloud.jpg');
+  background-size: cover;
+}
+
+.cold-war h1 {
+  color: #eee;
+  text-shadow: 0 0 40px black;
+}
+
+.soviet-missiles {
+  background: url('images/soviet-missiles.jpg');
+  background-size: cover;
+}
+
+.phil-zimmerman {
+  background: url('images/phil-zimmermann.jpg');
+  background-size: cover;
+}
+
+.snowden {
+  background: url('images/ed-snowden.jpg');
+  background-size: cover;
+}
+
+.nsa {
+  background: url('images/nsa.jpg');
+  background-size: cover;
+}
+
+.greenwald {
+  background: url('images/glenn-greenwald.jpg');
+  background-size: cover;
+}
+
+.greenwald-please {
+  background: url('images/glenn-greenwald-please.jpg');
+  background-size: cover;
+}
+
+.poitras {
+  background: url('images/laura-poitras.jpg');
+  background-size: cover;
+}
+
+.source-and-journalist-meet {
+  background: url('images/snowden-and-greenwald.jpeg');
+  background-size: cover;
+}
+
+.james-bond {
+  background: url('images/pierce-brosnan-james-bond.jpg');
+  background-size: cover;
+}
+
+.pgp-and-martini {
+  background: url('images/pgp-and-martini.jpg');
+  background-size: cover;
+}
