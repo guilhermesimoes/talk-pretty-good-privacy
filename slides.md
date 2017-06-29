@@ -228,14 +228,6 @@ EtqA3qxkkohD3ljjO7Pku/DQhG7Aiwv3QXx7eqQ1wsoudKKCC8zhC4Y59YC7YBGC
 
 --
 
-### Key Exchange
-
-<br>
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/YEBfamv-_do?start=126" frameborder="0" allowfullscreen></iframe>
-
---
-
 ### Asymmetric Algorithms
 
 * Diffie-Helman (1976)
@@ -405,6 +397,14 @@ Shortly after its release, PGP encryption found its way outside the United State
 --
 
 # Thank you
+
+--
+
+### Bonus Slide - Key Exchange
+
+<br>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/YEBfamv-_do?start=126" frameborder="0" allowfullscreen></iframe>
 
 --
 
